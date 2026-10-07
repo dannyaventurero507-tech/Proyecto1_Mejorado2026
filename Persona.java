@@ -7,7 +7,7 @@ package com.mycompany.proyecto1_2026;
 
 /**
  *
- * @author Daniel
+ * @author Elizabeth 
  */
 abstract class Persona { //Clase abstracta al usar abstract evitamos que se pueda hacer new persona(), es solo un molde para que otras clases hereden de ella.
 
