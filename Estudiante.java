@@ -7,7 +7,7 @@ package com.mycompany.proyecto1_2026;
 
 /**
  *
- * @author Daniel
+ * @author Elizabeth 
  */
 class Estudiante extends Persona{ //Herencia usando extends Persona donde el estdudiante hereda nombre, cedula, y correo
 
