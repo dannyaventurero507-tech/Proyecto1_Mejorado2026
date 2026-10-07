@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Elizabeth
  */
 class Problema1 {
-
+    //Aquí tenemos el método ejecutar que llama al problema 1
     public static void ejecutar(Scanner Norag) {
         EstudianteEdad estudiante = new EstudianteEdad(Norag); //Llamamos a la clase estudianteEdad
     }
